@@ -2,7 +2,7 @@
 puts "Let's plan your trip! Where would you like to stay?"
 stay = gets.chomp.capitalize
 
-puts "What foods do you want to eat?"
+puts "What would you like to eat?"
 eat = gets.chomp.capitalize
 
 puts "How many nights do you want to stay?"
